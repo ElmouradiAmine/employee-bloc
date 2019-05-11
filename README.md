@@ -1,6 +1,8 @@
 # employe_bloc
 
-A new Flutter project.
+This is a simple employee app created using the bloc pattern.
+
+![](https://github.com/ElmouradiAmine/employee-bloc/blob/master/flutter_01.png)
 
 ## Getting Started
 
